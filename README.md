@@ -5,4 +5,4 @@ Day 1
 Learning for Today
 
   Decided to Start with Python today with DataCamp Tutorial
-  Completed Basic of Python like Variable,Collections etc.
+  Completed Basic of Python like Variable,Operators,Collections,Conditional statements,Loops,Modules etc.
